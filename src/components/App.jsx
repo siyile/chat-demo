@@ -39,7 +39,7 @@ export default class App extends Component {
       id: generateUUID(),
       time: Date.now() / 1000,
       text: this.state.text,
-      // Name and avatar should be replaced by authedUser, but I just hard code here.
+      // Name and avatar should be replaced by props authedUser, but I just hard code here.
       name: 'Me',
       avatar: "https://github.githubassets.com/images/modules/logos_page/Octocat.png"
     }
