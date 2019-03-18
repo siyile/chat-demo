@@ -1,7 +1,7 @@
 Chat Demo
 =====
 
-use "yarn install" and "yarn start", or npm.
+use "yarn install" then "yarn start"
 
 I don't use different components because most components are not reusable in this demo.
 
